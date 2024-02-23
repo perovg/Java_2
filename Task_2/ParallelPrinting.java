@@ -1,3 +1,5 @@
+package Task_2;
+
 public class ParallelPrinting {
     public static void main(String[] args) {
         MyThread t1 = new MyThread("Поток 1", 5);

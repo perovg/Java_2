@@ -1,3 +1,5 @@
+package Task_4;
+
 public class OneByOne {
     private static final Object lock = new Object();
 
